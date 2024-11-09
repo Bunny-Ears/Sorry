@@ -6,8 +6,8 @@
     "background_color": "#ad4663",
     "theme_color": "#ad4663",
     "orientation": "any",
-    "start_url": "/",
-    "id": "/",
+    "start_url": "/Sorry",
+    "id": "/Sorry",
     "display": "standalone",
     "icons": [
       {
