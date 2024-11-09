@@ -1,0 +1,20 @@
+{
+    "lang": "en-gb",
+    "name": "Sorry Jar",
+    "short_name": "Sorry Jar",
+    "description": "Keep count of your sorrys",
+    "background_color": "#ad4663",
+    "theme_color": "#ad4663",
+    "orientation": "any",
+    "start_url": "/",
+    "id": "/",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "jar.svg",
+       "sizes": "any"
+      }
+    ]
+    
+  
+  }
