@@ -13,6 +13,10 @@
       {
         "src": "jar.svg",
        "sizes": "any"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "1364x2240"
       }
     ]
     

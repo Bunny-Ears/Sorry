@@ -1,5 +1,5 @@
 const CACHE_NAME = `sorry-jar-v1`;
-const PRE_CACHED_RESOURCES = ['/Sorry', 'script.js', 'styles.css', 'jar.svg', 'jar.webp'];
+const PRE_CACHED_RESOURCES = ['/Sorry', 'script.js', 'styles.css', 'jar.svg', 'jar.webp', 'apple-touch-icon.png'];
 
 self.addEventListener('install', event => {
   self.skipWaiting();
